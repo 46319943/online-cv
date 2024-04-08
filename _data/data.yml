@@ -8,13 +8,12 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Luo Yun
-    tagline: Full Stack Developer
+    name: 罗运
+    tagline: 地图学与地理信息系统博士生
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: 495384481@qq.com
     timezone: America/Cancun Timezone
     citizenship:
     website: blog.webjeda.com #do not add http://
