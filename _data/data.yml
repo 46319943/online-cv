@@ -165,22 +165,6 @@ certifications:
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
 
-projects:
-    title: 项目
-    intro: >
-      在本科与研究生期间，分别独立开发了两个个人项目。
-    assignments:
-      - title: 图讯News Map
-        link: "#"
-        tagline: |
-          阿斯顿撒旦
-
-      - title: 见闻-时空新闻数字生成平台
-        link: "#"
-        tagline: |
-          啊
-          ![](assets/images/Maperson.png)
-
 oss:
     title: 开源贡献
     intro: >
