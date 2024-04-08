@@ -14,32 +14,30 @@ sidebar:
 
     # Sidebar links
     email: 495384481@qq.com
-    timezone: America/Cancun Timezone
+    phone:
+    timezone:
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: piaoyang.cloudns.org #do not add http://
+    linkedin:
+    xing:
+    github: 46319943
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: 语言
       info:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: 英语
+          level: 六级
 
     interests:
       title: Interests
@@ -54,16 +52,12 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: 概述
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      我目前在武汉大学资源与环境科学学院攻读地图学与地理信息系统博士学位。研究方向是...
+      
 education:
-    title: Education
+    title: 教育经历
     info:
       - degree: MSc in Computer Science
         university: University of London
