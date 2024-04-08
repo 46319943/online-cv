@@ -45,10 +45,7 @@ sidebar:
         - item: 摄影
           link:
 
-        - item: 钢琴
-          link:
-
-        - item: 科学探索
+        - item: 乐理
           link:
 
 career-profile:
@@ -85,9 +82,9 @@ education:
 experiences:
     title: 荣誉经历
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: 中国大学生计算机设计大赛 全国一等奖
+        time: 2020.8
+        company: 教育部主板，计算机类竞赛的第3名
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -100,9 +97,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: 中国高校计算机大赛人工智能创意赛
+        time: 2020.12
+        company: xxx
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -124,15 +121,15 @@ experiences:
             - Bullet point
 
 certifications:
-      title: Certifications
+      title: 证书
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
+        - name: 国家发明专利：一种基于集成学习的空间非线性回归方法及系统
+          start: 2023年07月18日
+          end:
           organization: Microsoft
           credentialid: 111-222
           credentialurl: www.google.com
-          credentialname: Google
+          credentialname: ZL 2022 1 1464179.7
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
@@ -147,13 +144,13 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+        - name: 专项课程：Computer Communications（计算机网络）
+          start: August 25, 2021
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: University of Colorado System
+          credentialid: 
+          credentialurl: https://coursera.org/share/b8092b58a9987011c437805a2271d935
+          credentialname: Coursera
           details: |
             Older certification. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
@@ -171,25 +168,13 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: 图讯News Map
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: 见闻-时空新闻数字生成平台
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
@@ -211,16 +196,16 @@ oss:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: 刊物
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: A social-media-based approach to assessing the effectiveness of equitable housing policy in mitigating education accessibility induced social inequalities in Shanghai, China
         link: "#"
         authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        conference: Land Use Policy, 2021
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
