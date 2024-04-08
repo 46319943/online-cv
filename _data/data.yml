@@ -125,227 +125,31 @@ experiences:
           该赛事为计算机类竞赛的第三名，我带领的团队是[全校唯一全国一等奖团队](https://news.whu.edu.cn/info/1002/61463.htm)
 
 certifications:
-    title: 证书
-    list:
-      - name: 国家发明专利：一种基于集成学习的空间非线性回归方法及系统
-        start: 2023年07月18日
-        end:
-        organization: 国家知识产权局
-        credentialid: 
-        credentialurl: www.patentstar.com.cn/Search/Detail?ANE=9GBA6DDA9GFE9CHC7CEA6AFA8CCAAFGA9FBB6EBACFHACDHA
-        credentialname: ZL 2022 1 1464179.7
-        details: |
-          [专利链接](https://www.patentstar.com.cn/Search/Detail?ANE=9GBA6DDA9GFE9CHC7CEA6AFA8CCAAFGA9FBB6EBACFHACDHA)
-      - name: 国家发明专利：一种基于深度学习的新闻地理编码方法
-        start: 2023年08月15日
-        end:
-        organization: 国家知识产权局
-        credentialid: 
-        credentialurl: www.patentstar.com.cn/Search/Detail?ANE=6CCA9CIB7FAA8HAA9HFE1ABA9FDG6CAABEHA6CAAABHA9BCD
-        credentialname: ZL 2021 1 0747499.2
-        details: |
-          [专利链接](https://www.patentstar.com.cn/Search/Detail?ANE=6CCA9CIB7FAA8HAA9HFE1ABA9FDG6CAABEHA6CAAABHA9BCD)
-      - name: 国家发明专利：基于局部时空树回归模型的时空非平稳性分析方法及系统
-        start: 2023年03月10日
-        end:
-        organization: 国家知识产权局
-        credentialid: 
-        credentialurl: www.patentstar.com.cn/Search/Detail?ANE=9CFA6FBA9ICD3ABA9GGE8FCA9GADAIIA8AIA9FDC9FHFBEFA
-        credentialname: ZL 2022 1 1610329.0
-        details: |
-          [专利链接](https://www.patentstar.com.cn/Search/Detail?ANE=9CFA6FBA9ICD3ABA9GGE8FCA9GADAIIA8AIA9FDC9FHFBEFA)
-      - name: 专项课程：Computer Communications（计算机网络）
-        start: August 25, 2021
-        end:
-        organization: University of Colorado System
-        credentialid: 
-        credentialurl: coursera.org/share/b8092b58a9987011c437805a2271d935
-        credentialname: Coursera
-        details:
-      - name: 专项课程：Big Data（大数据）
-        start: July 2, 2020
-        end:
-        organization: University of California San Diego
-        credentialid: 
-        credentialurl: coursera.org/share/4df81850c85ed5f3a8b101c1dcd982b0
-        credentialname: Coursera
-        details:
-      - name: 专项课程：Deep Learning（深度学习）
-        start: January 27, 2020
-        end:
-        organization: DeepLearning.AI
-        credentialid: 
-        credentialurl: coursera.org/share/87637e692b95e888b64f32f636ba4926
-        credentialname: Coursera
-        details:
-      - name: 专项课程：Machine Learning（机器学习）
-        start: November 3, 2019
-        end:
-        organization: Stanford University
-        credentialid: 
-        credentialurl: coursera.org/share/4c1185ad5c909059893d5d9cb810e761
-        credentialname: Coursera
-        details:
-      - name: '课程：学会如何学习：帮助你掌握复杂学科的强大智力工具（Learning How to Learn）'
-        start: October 19, 2022
-        end:
-        organization: Deep Teaching Solutions
-        credentialid: 
-        credentialurl: coursera.org/share/7e8df858872b2fd02ad3e7bf4b2b0c5d
-        credentialname: Coursera
-        details:
-      - name: '课程：Microeconomics Principles（微观经济学原理）'
-        start: January 25, 2022
-        end:
-        organization: University of Illinois at Urbana-Champaign
-        credentialid: 
-        credentialurl: coursera.org/share/980e43a9a90c9b4b9a38d66a1bcd09f4
-        credentialname: Coursera
-        details:
-      - name: '课程：Economics of Money and Banking（货币银行经济学）'
-        start: March 20, 2022
-        end:
-        organization: Columbia University
-        credentialid: 
-        credentialurl: coursera.org/share/f992df96439d75639be22b965c9888eb
-        credentialname: Coursera
-        details:
-      - name: '课程：機器學習技法 (Machine Learning Techniques)'
-        start: January 11, 2022
-        end:
-        organization: National Taiwan University
-        credentialid: 
-        credentialurl: coursera.org/share/2a6a6f68530a4dc7567104232c5bda69
-        credentialname: Coursera
-        details:
-      - name: '课程：機器學習基石下 (Machine Learning Foundations)---Algorithmic Foundations'
-        start: December 11, 2021
-        end:
-        organization: National Taiwan University
-        credentialid: 
-        credentialurl: coursera.org/share/2fb9446a4ed636dc471fd68facd26004
-        credentialname: Coursera
-        details:
-      - name: '课程：機器學習基石上 (Machine Learning Foundations)---Mathematical Foundations'
-        start: November 26, 2021
-        end:
-        organization: National Taiwan University
-        credentialid: 
-        credentialurl: coursera.org/share/548e9fa3771ad0fc1cb1010f59dcc023
-        credentialname: Coursera
-        details:
-      - name: '课程：Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)（计算机原理2）'
-        start: October 27, 2021
-        end:
-        organization: Hebrew University of Jerusalem
-        credentialid: 
-        credentialurl: coursera.org/share/e3fa87557703b64a8e0624a2ed7d5929
-        credentialname: Coursera
-        details:
-      - name: '课程：Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)（计算机原理）'
-        start: September 10, 2021
-        end:
-        organization: Hebrew University of Jerusalem
-        credentialid: 
-        credentialurl: coursera.org/share/db3f5104e358b8dca1c65985b9c15790
-        credentialname: Coursera
-        details:
-      - name: 课程：Developing Your Musicianship（基础乐理）
-        start: May 19, 2021
-        end:
-        organization: Berklee
-        credentialid: 
-        credentialurl: coursera.org/share/80b2ef86bc7d7e7be714a4e7cec7fdca
-        credentialname: Coursera
-        details:
-      - name: '课程：Bayesian Statistics: Mixture Models（贝叶斯统计：混合模型）'
-        start: December 11, 2021
-        end:
-        organization: University of California, Santa Cruz
-        credentialid: 
-        credentialurl: coursera.org/share/dcbbdec56f672cb64e290a03854649f1
-        credentialname: Coursera
-        details:
-      - name: '课程：Bayesian Statistics: Techniques and Models（贝叶斯统计方法与模型）'
-        start: July 30, 2021
-        end:
-        organization: University of California, Santa Cruz
-        credentialid: 
-        credentialurl: coursera.org/share/7028175b1b64ae5910e6122c85060a69
-        credentialname: Coursera
-        details:
-      - name: '课程：Bayesian Statistics: From Concept to Data Analysis（贝叶斯统计：概念与数据分析）'
-        start: May 21, 2021
-        end:
-        organization: University of California, Santa Cruz
-        credentialid: 
-        credentialurl: coursera.org/share/bd665893ced8e21af684cbe6e7a61dbd
-        credentialname: Coursera
-        details:
-      - name: '课程：Linear Regression and Modeling（线性回归模型）'
-        start: May 21, 2021
-        end:
-        organization: Duke University
-        credentialid: 
-        credentialurl: coursera.org/share/8b54df953a0b4171b6379dfa2d69b9fb
-        credentialname: Coursera
-        details:
-      - name: 课程：Matrix Algebra for Engineers（矩阵代数）
-        start: March 17, 2021
-        end:
-        organization: The Hong Kong University of Science and Technology
-        credentialid: 
-        credentialurl: coursera.org/share/628215b2cd40b56fa5df0fc5fd1a5af2
-        credentialname: Coursera
-        details:
-      - name: 课程：Introduction to TCP/IP
-        start: May 11, 2021
-        end:
-        organization: Yonsei University
-        credentialid: 
-        credentialurl: coursera.org/share/fb574991803ddcdb36acada84b157b5c
-        credentialname: Coursera
-        details:
-      - name: 课程：Inferential Statistics（推断统计）
-        start: February 6, 2021
-        end:
-        organization: Duke University
-        credentialid: 
-        credentialurl: coursera.org/share/adc6a5ba5b332a07c85b7fa20325c07d
-        credentialname: Coursera
-        details:
-      - name: 课程：Introduction to Probability and Data with R（R语言与概率论）
-        start: August 7, 2020
-        end:
-        organization: Duke University
-        credentialid: 
-        credentialurl: coursera.org/share/628215b2cd40b56fa5df0fc5fd1a5af2
-        credentialname: Coursera
-        details:
-      - name: 课程：Basic Statistics（基础统计学）
-        start: July 16, 2020
-        end:
-        organization: University of Amsterdam
-        credentialid: 
-        credentialurl: coursera.org/share/7c0a266b6d2d88147ceacda2f6dc6d14
-        credentialname: Coursera
-        details:
-      - name: 其他课程
-        start: 2022.3.24
-        end: 至今
-        organization: MIT Open Couse Ware(麻省理工学院开放课程)
-        credentialid: 
-        credentialurl: ocw.mit.edu
-        credentialname: MIT
-        details: |
-          - 18.01
-          - 18.02
-          - 18.03
-          - 18.06
-          - 18.065
-          - 18.650
-          - 18.S096
-          - 6.041
+      title: Certifications
+      list:
+        - name: CV Builder
+          start: 2020
+          end: 2021
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
+          details: |
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+            fringilla vel. Ut euismod, sem sed vulputate venenatis,
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at.
+
+            
 projects:
     title: 项目
     intro: >
