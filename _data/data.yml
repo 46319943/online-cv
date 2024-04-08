@@ -55,75 +55,6 @@ career-profile:
       研究方向：社会感知、时空机器学习  
       导师：[苏世亮教授](http://jszy.whu.edu.cn/sushiliang/zh_CN/index.htm)
       
-education:
-    title: 教育经历
-    info:
-      - degree: 地图学与地理信息系统博士
-        university: 武汉大学
-        time: 2021 - 至今
-        details: |
-          博士阶段对计算机、应用数学、社会科学进行了更深入的学习和研究。
-          计算机方面，包括前沿深度学习模型、高性能机器学习；
-          应用数学方面，包括贝叶斯统计、因果推断；
-          社会科学方面，包括经济学原理，社会感知。
-          目前，我仍在对这些领域进行更加深入的学习，同时也在进行相关研究。
-      - degree: 地理信息科学学士
-        university: 武汉大学
-        time: 2017 - 2021
-        details: |
-          本科阶段主要接触了新媒体、计算机相关知识。
-          新媒体方面，学习了微信推文撰写编辑，图片、视频媒体创作与编辑，三维模型创建与渲染；
-          计算机方面，学习了Java后端开发，Web全栈开发，机器学习，深度学习。
-
-experiences:
-    title: 荣誉经历
-    info:
-      - role: 2023中国高效计算机大赛-人工智能创意赛  全国三等奖
-        time: 2023.12
-        company: 全国高等学校计算机教育研究会
-        details:
-      - role: 滨创杯第九届中国研究生智慧城市技术与创意设计大赛  全国二等奖
-        time: 2023.10
-        company: 中国学位与研究生教育学会
-        details:
-      - role: 正泰杯第七届中国研究生智慧城市技术与创意设计大赛  全国三等奖
-        time: 2022.8
-        company: 中国学位与研究生教育学会
-        details:
-      - role: 第十七届挑战杯全国大学生课外学术科技作品竞赛  三等奖
-        time: 2022.3
-        company: 中国科学技术协会、教育部
-        details:
-      - role: 2021年湖北省第十三届“挑战杯·中国银行”大学生课外学术科技作品竞赛  金奖
-        time: 2021.5
-        company: 湖北省科学技术协会、湖北省教育厅
-        details:
-      - role: 武汉大学2021珞珈风云学子二十强
-        time: 2021.5
-        company: 武汉大学
-        details: |
-          [采访链接](https://mp.weixin.qq.com/s?__biz=MzAxOTMyOTY1OA==&mid=2650905700&idx=1&sn=7dc2946c8bfaa37c582da94a348361e9&chksm=803d9b71b74a1267cdc7d2723f03089bff4ed613a3b00d799b0260627eb992e989774319b015&mpshare=1&scene=23&srcid=1201pqQvg763C4lLU9f0a45C&sharer_shareinfo=1ae167a6da9ef977609ba17ac82d3b31&sharer_shareinfo_first=1ae167a6da9ef977609ba17ac82d3b31#rd)
-      - role: 2020中国高校计算机大赛-人工智能创意赛  全国一等奖
-        time: 2020.12
-        company: 全国高等学校计算机教育研究会、百度公司、浙江大学、杭州市萧山区人民政府
-        details: |
-          在该比赛中，对“图讯News Map”加入了更多人工智能相关工具，并以国产百度飞桨框架进行实现。  
-          我带领的团队是参赛团队中[唯一本科生一等奖团队](https://sres.whu.edu.cn/info/1161/20732.htm)
-      - role: 2020第八届高校GIS论坛创新创业大赛  一等奖
-        time: 2020.11
-        company: 国家地理信息工程技术研究中心
-        details:
-      - role: 2020易智瑞杯中国大学生GIS软件开发竞赛  全国二等奖
-        time: 2020.11
-        company: 中国测绘学会
-        details:
-      - role: 中国大学生计算机设计大赛  全国一等奖
-        time: 2020.8
-        company: 教育部高等学校计算机类专业教学指导委员会
-        details: |
-          在该比赛中，我开发了“图讯News Map”的原型，并在大三第二学期以此参赛。  
-          该赛事为计算机类竞赛的第三名，我带领的团队是[全校唯一全国一等奖团队](https://news.whu.edu.cn/info/1002/61463.htm)
-
 certifications:
       title: Certifications
       list:
@@ -165,49 +96,7 @@ certifications:
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
 
-oss:
-    title: 开源贡献
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: PaddleNLP
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Coqui
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-publications:
-    title: 刊物
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: 'A large language model based approach to mapping multisensory experiences from online reviews'
-        conference: 发表中
-      - title: 'A novel ensemble learning approach to modeling non-linearity in spatiotemporal non-stationarity'
-        conference: 发表中
-      - title: 'Untangling the nonlinear TOD-metro ridership relationship: A novel spatiotemporally explicit machine learning approach'
-        conference: 发表中
-
-      - title: A social-media-based approach to assessing the effectiveness of equitable housing policy in mitigating education accessibility induced social inequalities in Shanghai, China
-        link: "https://doi.org/10.1016/j.landusepol.2020.104513"
-        authors: Hu, L., He, S., *Luo, Y.*, Su, S., Xin, J., & Weng, M.
-        conference: Land Use Policy (2020)
-
-      - title: "Essential fragmentation metrics for agricultural policies: Linking landscape pattern, ecosystem service and land use management in urbanizing China"
-        link: "https://doi.org/10.1016/j.agsy.2020.102833"
-        authors: Wei, L., *Luo, Y.*, Wang, M., Su, S., Pi, J., & Li, G.
-        conference: Agricultural Systems (2020)
-
-      - title: 'Multiscale identification of urban functional polycentricity for planning implications: An integrated approach using geo-big transport data and complex network modeling'
-        link: "https://doi.org/10.1016/j.habitatint.2020.102134"
-        authors: Wei, L., *Luo, Y.*, Wang, M., Cai, Y., Su, S., Li, B., & Ji, H.
-        conference: "Habitat International (2020)"
 
 skills:
     title: 技能
