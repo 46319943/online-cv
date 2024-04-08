@@ -51,7 +51,9 @@ sidebar:
 career-profile:
     title: 概述
     summary: |
-      我目前在武汉大学资源与环境科学学院攻读地图学与地理信息系统博士学位。研究方向是...
+      我目前在武汉大学资源与环境科学学院攻读地图学与地理信息系统博士学位。
+      研究方向是社会感知、时空机器学习。
+      我的导师是[苏世亮教授](http://jszy.whu.edu.cn/sushiliang/zh_CN/index.htm)
       
 education:
     title: 教育经历
@@ -59,55 +61,25 @@ education:
       - degree: 地图学与地理信息系统博士
         university: 武汉大学
         time: 2021 - 至今
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details:
       - degree: 地理信息科学学士
         university: 武汉大学
         time: 2017 - 2021
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details:
 
 experiences:
     title: 荣誉经历
     info:
-      - role: 中国大学生计算机设计大赛 全国一等奖
+      - role: 中国大学生计算机设计大赛  全国一等奖
         time: 2020.8
-        company: 教育部主板，计算机类竞赛的第3名
+        company: 教育部高等学校计算机类专业教学指导委员会
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: 中国高校计算机大赛人工智能创意赛
+          计算机类竞赛的第3名。大三下学习参赛，[全校唯一全国一等奖团队](https://news.whu.edu.cn/info/1002/61463.htm)
+      - role: 中国高校计算机大赛人工智能创意赛  全国一等奖
         time: 2020.12
-        company: xxx
+        company: 全国高等学校计算机教育研究会、百度公司、浙江大学、杭州市萧山区人民政府
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          [唯一本科生一等奖团队](https://sres.whu.edu.cn/info/1161/20732.htm)
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
@@ -149,7 +121,7 @@ certifications:
           end:
           organization: University of Colorado System
           credentialid: 
-          credentialurl: https://coursera.org/share/b8092b58a9987011c437805a2271d935
+          credentialurl: coursera.org/share/b8092b58a9987011c437805a2271d935
           credentialname: Coursera
           details: |
             Older certification. Lorem ipsum dolor sit amet, consectetur
@@ -170,7 +142,9 @@ projects:
     assignments:
       - title: 图讯News Map
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: |
+        "A responsive website template designed to help startups promote, market and sell their products."
+        ![](/assets/images/NS.png)
 
       - title: 见闻-时空新闻数字生成平台
         link: "#"
