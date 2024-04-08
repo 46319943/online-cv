@@ -61,7 +61,8 @@ education:
       - degree: 地图学与地理信息系统博士
         university: 武汉大学
         time: 2021 - 至今
-        details:
+        details: |
+          在本科阶段
       - degree: 地理信息科学学士
         university: 武汉大学
         time: 2017 - 2021
@@ -80,7 +81,8 @@ experiences:
         company: 全国高等学校计算机教育研究会、百度公司、浙江大学、杭州市萧山区人民政府
         details: |
           [唯一本科生一等奖团队](https://sres.whu.edu.cn/info/1161/20732.htm)
-      - role: UI Developer
+      
+      - role: 武汉大学2021珞珈风云学子二十强
         time: 2012 - 2014
         company: Amazon, London
         details: |
@@ -148,7 +150,9 @@ projects:
 
       - title: 见闻-时空新闻数字生成平台
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: |
+          "A responsive website template designed to help web developers/designers market their services."
+          ![](assets/images/NS.png)
 
 oss:
     title: OSS Contributions
