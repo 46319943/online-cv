@@ -132,7 +132,7 @@ certifications:
         end:
         organization: 国家知识产权局
         credentialid: 
-        credentialurl: 
+        credentialurl: www.patentstar.com.cn/Search/Detail?ANE=9GBA6DDA9GFE9CHC7CEA6AFA8CCAAFGA9FBB6EBACFHACDHA
         credentialname: ZL 2022 1 1464179.7
         details: |
           [专利链接](https://www.patentstar.com.cn/Search/Detail?ANE=9GBA6DDA9GFE9CHC7CEA6AFA8CCAAFGA9FBB6EBACFHACDHA)
@@ -141,7 +141,7 @@ certifications:
         end:
         organization: 国家知识产权局
         credentialid: 
-        credentialurl: 
+        credentialurl: www.patentstar.com.cn/Search/Detail?ANE=6CCA9CIB7FAA8HAA9HFE1ABA9FDG6CAABEHA6CAAABHA9BCD
         credentialname: ZL 2021 1 0747499.2
         details: |
           [专利链接](https://www.patentstar.com.cn/Search/Detail?ANE=6CCA9CIB7FAA8HAA9HFE1ABA9FDG6CAABEHA6CAAABHA9BCD)
@@ -150,7 +150,7 @@ certifications:
         end:
         organization: 国家知识产权局
         credentialid: 
-        credentialurl: 
+        credentialurl: www.patentstar.com.cn/Search/Detail?ANE=9CFA6FBA9ICD3ABA9GGE8FCA9GADAIIA8AIA9FDC9FHFBEFA
         credentialname: ZL 2022 1 1610329.0
         details: |
           [专利链接](https://www.patentstar.com.cn/Search/Detail?ANE=9CFA6FBA9ICD3ABA9GGE8FCA9GADAIIA8AIA9FDC9FHFBEFA)
@@ -186,7 +186,6 @@ certifications:
         credentialurl: coursera.org/share/4c1185ad5c909059893d5d9cb810e761
         credentialname: Coursera
         details:
-
       - name: '课程：学会如何学习：帮助你掌握复杂学科的强大智力工具（Learning How to Learn）'
         start: October 19, 2022
         end:
@@ -195,7 +194,6 @@ certifications:
         credentialurl: coursera.org/share/7e8df858872b2fd02ad3e7bf4b2b0c5d
         credentialname: Coursera
         details:
-
       - name: '课程：Microeconomics Principles（微观经济学原理）'
         start: January 25, 2022
         end:
@@ -204,7 +202,6 @@ certifications:
         credentialurl: coursera.org/share/980e43a9a90c9b4b9a38d66a1bcd09f4
         credentialname: Coursera
         details:
-
       - name: '课程：Economics of Money and Banking（货币银行经济学）'
         start: March 20, 2022
         end:
@@ -213,7 +210,6 @@ certifications:
         credentialurl: coursera.org/share/f992df96439d75639be22b965c9888eb
         credentialname: Coursera
         details:
-
       - name: '课程：機器學習技法 (Machine Learning Techniques)'
         start: January 11, 2022
         end:
@@ -222,7 +218,6 @@ certifications:
         credentialurl: coursera.org/share/2a6a6f68530a4dc7567104232c5bda69
         credentialname: Coursera
         details:
-
       - name: '课程：機器學習基石下 (Machine Learning Foundations)---Algorithmic Foundations'
         start: December 11, 2021
         end:
@@ -231,7 +226,6 @@ certifications:
         credentialurl: coursera.org/share/2fb9446a4ed636dc471fd68facd26004
         credentialname: Coursera
         details:
-
       - name: '课程：機器學習基石上 (Machine Learning Foundations)---Mathematical Foundations'
         start: November 26, 2021
         end:
@@ -240,7 +234,6 @@ certifications:
         credentialurl: coursera.org/share/548e9fa3771ad0fc1cb1010f59dcc023
         credentialname: Coursera
         details:
-
       - name: '课程：Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)（计算机原理2）'
         start: October 27, 2021
         end:
@@ -257,7 +250,6 @@ certifications:
         credentialurl: coursera.org/share/db3f5104e358b8dca1c65985b9c15790
         credentialname: Coursera
         details:
-
       - name: 课程：Developing Your Musicianship（基础乐理）
         start: May 19, 2021
         end:
@@ -266,7 +258,6 @@ certifications:
         credentialurl: coursera.org/share/80b2ef86bc7d7e7be714a4e7cec7fdca
         credentialname: Coursera
         details:
-
       - name: '课程：Bayesian Statistics: Mixture Models（贝叶斯统计：混合模型）'
         start: December 11, 2021
         end:
@@ -275,7 +266,6 @@ certifications:
         credentialurl: coursera.org/share/dcbbdec56f672cb64e290a03854649f1
         credentialname: Coursera
         details:
-
       - name: '课程：Bayesian Statistics: Techniques and Models（贝叶斯统计方法与模型）'
         start: July 30, 2021
         end:
@@ -284,7 +274,6 @@ certifications:
         credentialurl: coursera.org/share/7028175b1b64ae5910e6122c85060a69
         credentialname: Coursera
         details:
-
       - name: '课程：Bayesian Statistics: From Concept to Data Analysis（贝叶斯统计：概念与数据分析）'
         start: May 21, 2021
         end:
@@ -293,7 +282,6 @@ certifications:
         credentialurl: coursera.org/share/bd665893ced8e21af684cbe6e7a61dbd
         credentialname: Coursera
         details:
-
       - name: '课程：Linear Regression and Modeling（线性回归模型）'
         start: May 21, 2021
         end:
@@ -302,7 +290,6 @@ certifications:
         credentialurl: coursera.org/share/8b54df953a0b4171b6379dfa2d69b9fb
         credentialname: Coursera
         details:
-
       - name: 课程：Matrix Algebra for Engineers（矩阵代数）
         start: March 17, 2021
         end:
@@ -311,7 +298,6 @@ certifications:
         credentialurl: coursera.org/share/628215b2cd40b56fa5df0fc5fd1a5af2
         credentialname: Coursera
         details:
-
       - name: 课程：Introduction to TCP/IP
         start: May 11, 2021
         end:
@@ -320,7 +306,6 @@ certifications:
         credentialurl: coursera.org/share/fb574991803ddcdb36acada84b157b5c
         credentialname: Coursera
         details:
-
       - name: 课程：Inferential Statistics（推断统计）
         start: February 6, 2021
         end:
@@ -329,7 +314,6 @@ certifications:
         credentialurl: coursera.org/share/adc6a5ba5b332a07c85b7fa20325c07d
         credentialname: Coursera
         details:
-
       - name: 课程：Introduction to Probability and Data with R（R语言与概率论）
         start: August 7, 2020
         end:
@@ -338,7 +322,6 @@ certifications:
         credentialurl: coursera.org/share/628215b2cd40b56fa5df0fc5fd1a5af2
         credentialname: Coursera
         details:
-
       - name: 课程：Basic Statistics（基础统计学）
         start: July 16, 2020
         end:
@@ -347,7 +330,6 @@ certifications:
         credentialurl: coursera.org/share/7c0a266b6d2d88147ceacda2f6dc6d14
         credentialname: Coursera
         details:
-
       - name: 其他课程
         start: 2022.3.24
         end: 至今
@@ -364,27 +346,21 @@ certifications:
           - 18.650
           - 18.S096
           - 6.041
-            
-        
-
-
 projects:
     title: 项目
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      在本科与研究生期间，分别独立开发了两个个人项目。
     assignments:
       - title: 图讯News Map
         link: "#"
         tagline: |
-          "A responsive website template designed to help startups promote, market and sell their products."
+          阿斯顿撒旦
 
       - title: 见闻-时空新闻数字生成平台
         link: "#"
         tagline: |
-          "A responsive website template designed to help web developers/designers market their services."
-          ![](assets/images/NS.png)
+          啊
+          ![](assets/images/Maperson.png)
 
 oss:
     title: 开源贡献
@@ -416,17 +392,17 @@ publications:
         conference: 发表中
 
       - title: A social-media-based approach to assessing the effectiveness of equitable housing policy in mitigating education accessibility induced social inequalities in Shanghai, China
-        link: "doi.org/10.1016/j.landusepol.2020.104513"
+        link: "https://doi.org/10.1016/j.landusepol.2020.104513"
         authors: Hu, L., He, S., *Luo, Y.*, Su, S., Xin, J., & Weng, M.
         conference: Land Use Policy (2020)
 
       - title: "Essential fragmentation metrics for agricultural policies: Linking landscape pattern, ecosystem service and land use management in urbanizing China"
-        link: "doi.org/10.1016/j.agsy.2020.102833"
+        link: "https://doi.org/10.1016/j.agsy.2020.102833"
         authors: Wei, L., *Luo, Y.*, Wang, M., Su, S., Pi, J., & Li, G.
         conference: Agricultural Systems (2020)
 
       - title: 'Multiscale identification of urban functional polycentricity for planning implications: An integrated approach using geo-big transport data and complex network modeling'
-        link: "doi.org/10.1016/j.habitatint.2020.102134"
+        link: "https://doi.org/10.1016/j.habitatint.2020.102134"
         authors: Wei, L., *Luo, Y.*, Wang, M., Cai, Y., Su, S., Li, B., & Ji, H.
         conference: "Habitat International (2020)"
 
