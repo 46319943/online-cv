@@ -143,8 +143,8 @@ projects:
       - title: 图讯News Map
         link: "#hook"
         tagline: |
-        "A responsive website template designed to help startups promote, market and sell their products."
-        ![](/assets/images/NS.png)
+          "A responsive website template designed to help startups promote, market and sell their products."
+          ![](/assets/images/NS.png)
 
       - title: 见闻-时空新闻数字生成平台
         link: "#"
