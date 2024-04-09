@@ -127,33 +127,30 @@ experiences:
 certifications:
   title: 证书
   list:
-    - name: 国家发明专利：一种基于集成学习的空间非线性回归方法及系统
+    - name: 发明专利：一种基于集成学习的空间非线性回归方法及系统
       start: 2023年07月18日
       end:
       organization: 国家知识产权局
       credentialid: 
       credentialurl: www.patentstar.com.cn/Search/Detail?ANE=9GBA6DDA9GFE9CHC7CEA6AFA8CCAAFGA9FBB6EBACFHACDHA
       credentialname: ZL 2022 1 1464179.7
-      details: |
-        [专利链接](https://www.patentstar.com.cn/Search/Detail?ANE=9GBA6DDA9GFE9CHC7CEA6AFA8CCAAFGA9FBB6EBACFHACDHA)
-    - name: 国家发明专利：一种基于深度学习的新闻地理编码方法
+      details:
+    - name: 发明专利：一种基于深度学习的新闻地理编码方法
       start: 2023年08月15日
       end:
       organization: 国家知识产权局
       credentialid: 
       credentialurl: www.patentstar.com.cn/Search/Detail?ANE=6CCA9CIB7FAA8HAA9HFE1ABA9FDG6CAABEHA6CAAABHA9BCD
       credentialname: ZL 2021 1 0747499.2
-      details: |
-        [专利链接](https://www.patentstar.com.cn/Search/Detail?ANE=6CCA9CIB7FAA8HAA9HFE1ABA9FDG6CAABEHA6CAAABHA9BCD)
-    - name: 国家发明专利：基于局部时空树回归模型的时空非平稳性分析方法及系统
+      details:
+    - name: 发明专利：基于局部时空树回归模型的时空非平稳性分析方法及系统
       start: 2023年03月10日
       end:
       organization: 国家知识产权局
       credentialid: 
       credentialurl: www.patentstar.com.cn/Search/Detail?ANE=9CFA6FBA9ICD3ABA9GGE8FCA9GADAIIA8AIA9FDC9FHFBEFA
       credentialname: ZL 2022 1 1610329.0
-      details: |
-        [专利链接](https://www.patentstar.com.cn/Search/Detail?ANE=9CFA6FBA9ICD3ABA9GGE8FCA9GADAIIA8AIA9FDC9FHFBEFA)
+      details:
     - name: 专项课程：Computer Communications（计算机网络）
       start: August 25, 2021
       end:
