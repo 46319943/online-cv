@@ -330,7 +330,7 @@ certifications:
       credentialurl: coursera.org/share/7c0a266b6d2d88147ceacda2f6dc6d14
       credentialname: Coursera
       details:
-    - name: 其他课程
+    - name: MIT开放课程
       start: 2022.3.24
       end: 至今
       organization: MIT Open Couse Ware(麻省理工学院开放课程)
@@ -338,14 +338,23 @@ certifications:
       credentialurl: ocw.mit.edu
       credentialname: MIT
       details: |
-        - 18.01
-        - 18.02
-        - 18.03
-        - 18.06
-        - 18.065
-        - 18.650
-        - 18.S096
-        - 6.041
+        - 18.01 单变量微积分
+        - 18.02 多变量微积分
+        - 18.03 微分方程
+        - 18.06 线性代数
+        - 18.065 矩阵方法
+        - 18.650 应用统计（学习中）
+        - 18.S096 矩阵积分
+        - 6.041 概率论
+    - name: 斯坦福开放课程
+      start: 2023.10.29
+      end: 至今
+      organization: Stanford University
+      credentialid: 
+      credentialurl: 
+      credentialname: 
+      details: |
+        - CS229 机器学习原理 （学习中）
 
 projects:
     title: 项目
