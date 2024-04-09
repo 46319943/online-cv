@@ -17,7 +17,7 @@ sidebar:
     phone:
     timezone:
     citizenship:
-    website: piaoyang.cloudns.org #do not add http://
+    website: cv.piaoyang.cloudns.org #do not add http://
     linkedin:
     xing:
     github: 46319943
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: 语言
@@ -108,7 +108,8 @@ experiences:
         company: 全国高等学校计算机教育研究会、百度公司、浙江大学、杭州市萧山区人民政府
         details: |
           在该比赛中，对“图讯News Map”加入了更多人工智能相关工具，并以国产百度飞桨框架进行实现。  
-          我带领的团队是参赛团队中[唯一本科生一等奖团队](https://sres.whu.edu.cn/info/1161/20732.htm)
+          我带领的团队是参赛团队中[唯一本科生一等奖团队](https://sres.whu.edu.cn/info/1161/20732.htm)  
+          [宣传链接](https://mp.weixin.qq.com/s?__biz=MzA3MjQwNTgwOQ==&mid=2649705304&idx=1&sn=6f3521844ff15a8b9e6375072513e403&chksm=87052d06b072a4100a180ff33332d6c45571fd8df84b9d0a53cf4776454f2548c64348e01c96&mpshare=1&scene=23&srcid=1201PKm9Qoz8MMhO7EOihODM&sharer_shareinfo=f533fb1482254192f333b852b13a8a7c&sharer_shareinfo_first=f533fb1482254192f333b852b13a8a7c#rd)
       - role: 2020第八届高校GIS论坛创新创业大赛  一等奖
         time: 2020.11
         company: 国家地理信息工程技术研究中心
@@ -151,7 +152,7 @@ certifications:
       credentialurl: www.patentstar.com.cn/Search/Detail?ANE=9CFA6FBA9ICD3ABA9GGE8FCA9GADAIIA8AIA9FDC9FHFBEFA
       credentialname: ZL 2022 1 1610329.0
       details:
-    - name: 专项课程：Computer Communications（计算机网络）
+    - name: 系列课程：Computer Communications（计算机网络）
       start: August 25, 2021
       end:
       organization: University of Colorado System
@@ -159,7 +160,7 @@ certifications:
       credentialurl: coursera.org/share/b8092b58a9987011c437805a2271d935
       credentialname: Coursera
       details:
-    - name: 专项课程：Big Data（大数据）
+    - name: 系列课程：Big Data（大数据）
       start: July 2, 2020
       end:
       organization: University of California San Diego
@@ -167,20 +168,12 @@ certifications:
       credentialurl: coursera.org/share/4df81850c85ed5f3a8b101c1dcd982b0
       credentialname: Coursera
       details:
-    - name: 专项课程：Deep Learning（深度学习）
+    - name: 系列课程：Deep Learning（深度学习）
       start: January 27, 2020
       end:
       organization: DeepLearning.AI
       credentialid: 
       credentialurl: coursera.org/share/87637e692b95e888b64f32f636ba4926
-      credentialname: Coursera
-      details:
-    - name: 专项课程：Machine Learning（机器学习）
-      start: November 3, 2019
-      end:
-      organization: Stanford University
-      credentialid: 
-      credentialurl: coursera.org/share/4c1185ad5c909059893d5d9cb810e761
       credentialname: Coursera
       details:
     - name: '课程：学会如何学习：帮助你掌握复杂学科的强大智力工具（Learning How to Learn）'
@@ -327,6 +320,14 @@ certifications:
       credentialurl: coursera.org/share/7c0a266b6d2d88147ceacda2f6dc6d14
       credentialname: Coursera
       details:
+    - name: 课程：Machine Learning（机器学习）
+      start: November 3, 2019
+      end:
+      organization: Stanford University
+      credentialid: 
+      credentialurl: coursera.org/share/4c1185ad5c909059893d5d9cb810e761
+      credentialname: Coursera
+      details:
     - name: MIT开放课程
       start: 2022.3.24
       end: 至今
@@ -352,6 +353,32 @@ certifications:
       credentialname: 
       details: |
         - CS229 机器学习原理 （学习中）
+    - name: '系列课程：Photography Basics and Beyond: From Smartphone to DSLR Specialization（待完成）'
+      start: June 10, 2021
+      end:
+      organization: Michigan State University
+      credentialid: 
+      credentialurl:
+      credentialname: Coursera
+      details: |
+        - [Cameras, Exposure, and Photography](https://coursera.org/share/6bc5fe72f9ebd85dc0c9531ec7e53698)
+        - [Camera Control](https://coursera.org/share/692e25fb0a68bba7c4b50428e91ca19e)
+        - [Principles of Photo Composition and Digital Image Post-Production](https://coursera.org/share/ba0e8fc7865bc39d2be8f1f032732eba)
+        - [Photography Techniques: Light, Content, and Sharing](https://coursera.org/share/de5447b56d53ffda83971b21732c09be)
+        - Photography Capstone Project (To be done)
+    - name: '系列课程：Academic English: Writing Specialization（待完成）'
+      start: December 27, 2022
+      end:
+      organization: University of California, Irvine
+      credentialid: 
+      credentialurl:
+      credentialname: Coursera
+      details: |
+        - [Grammar and Punctuation](https://coursera.org/share/ed8342a7db66a04faf81e82e8c790432)
+        - [Getting Started with Essay Writing](https://coursera.org/share/1d1850d3fc3a1c13300a79734851a58b)
+        - [Advanced Writing](https://coursera.org/share/a7e1553e3bc07fae0c0ba5838e7b7f6e)
+        - [Introduction to Research for Essay Writing](https://coursera.org/share/71a3ed754b799e36f6e0c5d7d217f883)
+        - Project: Writing a Research Paper (To be done)
 
 projects:
     title: 项目
