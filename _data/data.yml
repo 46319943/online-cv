@@ -350,40 +350,53 @@ certifications:
 projects:
     title: 项目
     intro: >
-      在本科与研究生期间，分别独立开发了两个个人项目。
+      在本科与研究生期间，分别独立开发了两个个人项目。同时，在本科期间参与一个面向企业的工程项目。
     assignments:
+      - title: 武汉衡德实业IMS系统
+        link: "#"
+        tagline: |
+          武汉衡德实业主要从事于塑料制品的生产与销售。针对企业业务，实现了一套IMS系统，包括了进销存、财务、人事等模块。
+
+          同时，针对注塑机的生产过程，实现了一套生产监控系统，实现了对注塑机的实时监控与异常品智能检测。
+          
+
       - title: 图讯News Map
         link: "#"
         tagline: |
-          阿斯顿撒旦
+          在大数据时代，新闻资讯作为获取信息的有效途径，存在信息冗杂、分类不清、表达不直观等问题。为此，我们不断寻找创新新闻表现形式的突破口，发现地图作为一类重要的信息载体，在信息展示方面具有直观、多维的特点。目前市面上少有新闻地图结合产品，且未形成时空上的多维呈现，在缺少关联性的同时，也缺乏对新闻的深度剖析，无法满足人们对于新闻时空概念、个性化地图等信息的需求。
+          
+          针对上述现象，我们开发了图讯News Map这样一款围绕数据获取、分析与处理的产品。本作品相较于其他产品，更注重信息的个性化推荐、时空多维展示与分析，能够紧紧抓住市场关于新闻地图的需求，从新闻时空特征的可视化呈现出发，延伸出更多创新性功能，旨在推动时空大数据时代背景下新闻融媒体的创新发展。
 
       - title: 见闻-时空新闻数字生成平台
         link: "#"
         tagline: |
-          啊
+          传统的新闻主要使用文字进行描述，然而，新闻事件本身包含诸如地点、上下文线索、发展历程等无法用文字充分表达的信息，这使得传统新闻缺失了时间线索和空间线索。
+
+          并且，人们日益丰富的个性化需求以及新媒体时代的音视频等众多表现形式，使传统的文字在表现力与吸引力上不断减弱，如何在新媒体时代通过音视频赋予新闻个性化的表现形式，是满足人们个性化需求的重点。
+
+          同时，在大数据时代，海量的资讯让新闻的内容价值与信息密度不断降低，如何分析、提取并生成高质量的新闻成为解决信息过载的重要问题。
+
+          为了解决上述问题，该作品使用空间分析统计、自然语言处理、生成式模型等技术，实现了一个时空背景下的新闻数字生成创作与分析平台，从而在补充新闻的时间、空间线索的同时，满足人们对高质量定制化新闻的需求。
+
           ![](assets/images/Maperson.png)
 
 oss:
     title: 开源贡献
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      针对开源项目的贡献，包括代码提交、文档撰写、问题反馈等。
     contributions:
       - title: PaddleNLP
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: PaddleNLP是国产飞桨深度学习框架下的自然语言处理工具库。我在其中提交了一些代码，帮助改进了部分功能。
 
       - title: Coqui
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: Coqui是目前最流行的TTS（文本转语音）开源项目。我在其中贡献了中文语音模型的训练。
 
 publications:
     title: 刊物
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      我的研究方向主要集中在社会感知、时空机器学习。以下是我发表的论文：
     papers:
       - title: 'A large language model based approach to mapping multisensory experiences from online reviews'
         conference: 发表中
@@ -395,17 +408,17 @@ publications:
       - title: A social-media-based approach to assessing the effectiveness of equitable housing policy in mitigating education accessibility induced social inequalities in Shanghai, China
         link: "https://doi.org/10.1016/j.landusepol.2020.104513"
         authors: Hu, L., He, S., *Luo, Y.*, Su, S., Xin, J., & Weng, M.
-        conference: Land Use Policy (2020)
+        conference: Land Use Policy (2020) 一区Top
 
       - title: "Essential fragmentation metrics for agricultural policies: Linking landscape pattern, ecosystem service and land use management in urbanizing China"
         link: "https://doi.org/10.1016/j.agsy.2020.102833"
         authors: Wei, L., *Luo, Y.*, Wang, M., Su, S., Pi, J., & Li, G.
-        conference: Agricultural Systems (2020)
+        conference: Agricultural Systems (2020) 一区Top
 
       - title: 'Multiscale identification of urban functional polycentricity for planning implications: An integrated approach using geo-big transport data and complex network modeling'
         link: "https://doi.org/10.1016/j.habitatint.2020.102134"
         authors: Wei, L., *Luo, Y.*, Wang, M., Cai, Y., Su, S., Li, B., & Ji, H.
-        conference: "Habitat International (2020)"
+        conference: "Habitat International (2020) 一区Top" 
 
 skills:
     title: 技能
